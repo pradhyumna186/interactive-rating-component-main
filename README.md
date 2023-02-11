@@ -65,6 +65,7 @@ Users should be able to:
 const proudOfThisFunc = () => {
   console.log('🎉')
 }
+```
 
 ## Author
 
